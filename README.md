@@ -1,4 +1,4 @@
-# Practical-Project-for-Introduction-to-Algorithms
+# projeto-pratico-introducao-algoritmos
 
 ## Introdução
 
