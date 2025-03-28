@@ -22,4 +22,4 @@ projeto teve grande importância não apenas para o desenvolvimento das habilida
 programação, mas também de habilidades sociais e lógicas, como a capacidade de programar
 em grupo e a melhor compreensão de algoritmos lógicos, como os de ordenação. Por fim, o
 projeto nos aproximou de uma realidade, ainda que distante, do mercado de trabalho, e nos
-proporcionou uma experiência nova
+proporcionou uma experiência nova.
