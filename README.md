@@ -4,7 +4,7 @@
 
 O projeto consiste na criação de um programa de registro de itens (no caso, plantas) com 5 campos definidos pelos alunos, armazenados em arquivos `.csv` e em arquivos binários. Além disso, deve ser possível alterar o arquivo de diversas formas por meio da manipulação de um vetor alocado dinamicamente, inicialmente com 40 posições, que deve ser realocado conforme o tamanho do arquivo.
 
-## Descrição em Alto Nível das Funções do Programa
+## Descrição em alto nível das funções do programa
 
 - **Quick_sortIdentificador**: Implementa o algoritmo de ordenação Quick Sort para ordenar o vetor de plantas pelo campo identificador. A função usa recursão para dividir o vetor em partes menores, ordenando cada uma até que todo o vetor esteja organizado.
 - **SalvarDados**: Salva os dados das plantas em um arquivo CSV. Para cada planta no vetor, a função grava seus campos (identificador, nome, região de origem, nome científico, ano de descobrimento) no arquivo.
