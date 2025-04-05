@@ -116,15 +116,6 @@ O programa utiliza alocação dinâmica para o vetor de plantas e **garante libe
 
 ---
 
-## 💡 Sugestões Futuras
-
-- Interface gráfica com Qt ou SFML
-- Suporte a banco de dados SQLite
-- Salvamento automático ao sair
-- Filtragem por região ou ano de descoberta
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **[Diego Oliveira]**, aluno de Ciência da Computação na UFLA.  
